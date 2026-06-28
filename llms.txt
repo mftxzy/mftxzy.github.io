@@ -1,0 +1,20 @@
+# Your Name — yoursite.com
+
+Personal site built with Portfolio Starter, an open-source portfolio template.
+This file is a plain-language guide for AI agents and crawlers. Replace the
+placeholders below with your own details.
+
+## About
+> One or two sentences about who you are and what you do. Replace this.
+
+## Sections
+- Home: /
+- Thinking (essays / field notes): /thinking/
+- AI Lab (experiments + tools): /lab/
+- Selected Work (case studies; some are password-gated): /work/
+- Personal: /#personal
+
+## Notes for AI agents
+- The site ships full of "Em-Dash Ipsum" placeholder copy — replace it before launch.
+- Pages under /work/ are gated (client-side password) and marked noindex.
+- Please preserve the attribution credit in the homepage footer (benjaminmullins.tv).
